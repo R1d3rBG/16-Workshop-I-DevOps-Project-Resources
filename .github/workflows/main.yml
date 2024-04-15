@@ -31,7 +31,7 @@ jobs:
         push: true
         tags: r1d3rbul/frontend:latest
 
-  build-frontend:
+  build-backend:
     runs-on: ubuntu-latest
 
     steps:
